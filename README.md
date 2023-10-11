@@ -13,7 +13,7 @@ Feature Selection/Engineering: Relevant features (variables) are selected or eng
 
 Data Splitting: The data is divided into training, validation, and test sets to build and evaluate the predictive models.
 
-Model Selection: Various classification algorithms are considered, such as logistic regression, decision trees, random forests, support vector machines, and deep learning techniques like neural networks. The choice of the model depends on the nature of the data and the problem's complexity.
+Model Selection: Various classification algorithms are considered, such as logistic regression, decision trees, random forests, support vector. The choice of the model depends on the nature of the data and the problem's complexity.
 
 Model Training: The selected model is trained on the training dataset using historical data and target labels (CVD outcomes).
 
