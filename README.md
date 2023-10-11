@@ -5,7 +5,7 @@ Cardiovascular disease (CVD), also known as heart disease, refers to a class of 
 
 A cardiovascular disease prediction classification project is a data-driven initiative aimed at developing predictive models to identify individuals who are at risk of developing cardiovascular diseases (CVD). These projects use machine learning and data analysis techniques to analyze medical and health-related data to make predictions and classify individuals into risk categories. Here's a summary of such a project:
 
-Data Collection: The project begins with the collection of relevant medical data, which may include patient demographics, lifestyle factors, medical history, vital signs (such as blood pressure and heart rate).
+Data Collection: The project begins with the collection of relevant medical data, which may include patient demographics, lifestyle factors, medical history, and vital signs (such as blood pressure and heart rate).
 
 Data Preprocessing: The collected data is cleaned, processed, and transformed into a suitable format for analysis. Missing values are addressed, and outliers may be treated.
 
