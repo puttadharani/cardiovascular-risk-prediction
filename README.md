@@ -23,7 +23,6 @@ Model Testing: The final model is tested on the independent test dataset to eval
 
 Interpretability: To enhance the project's clinical relevance, models may be designed to provide explanations or feature importance rankings to healthcare professionals, explaining why a specific prediction was made.
 
-Deployment: Once a reliable model is developed, it can be integrated into healthcare systems to assist in early risk assessment. Healthcare providers can use the model to identify individuals at high risk of CVD and recommend appropriate interventions.
 
 Continuous Monitoring: To ensure the model's accuracy and relevance, it's essential to periodically update the model with new data and reevaluate its performance.
 
