@@ -23,8 +23,6 @@ Model Testing: The final model is tested on the independent test dataset to eval
 
 Interpretability: To enhance the project's clinical relevance, models may be designed to provide explanations or feature importance rankings to healthcare professionals, explaining why a specific prediction was made.
 
-Ethical Considerations: Protecting patient privacy and ensuring the ethical use of medical data are critical considerations in CVD prediction classification projects. Compliance with data protection regulations, like HIPAA (Health Insurance Portability and Accountability Act) in the United States, is essential.
-
 Patient Education: Raising awareness among patients about CVD risk factors, prevention, and the role of predictive models is an important aspect of such projects.
 
 CVD prediction classification projects have the potential to significantly impact public health by enabling early identification of at-risk individuals and facilitating timely interventions to prevent or manage cardiovascular diseases. They align with the broader goals of personalized medicine and data-driven healthcare to improve patient outcomes and reduce healthcare costs.
